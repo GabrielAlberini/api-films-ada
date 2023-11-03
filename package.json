@@ -1,0 +1,24 @@
+{
+  "name": "api-films-ada",
+  "version": "1.0.0",
+  "description": "api films with node",
+  "main": "client.js",
+  "scripts": {
+    "server": "node server.js",
+    "client": "node client.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GabrielAlberini/api-films-ada.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GabrielAlberini/api-films-ada/issues"
+  },
+  "homepage": "https://github.com/GabrielAlberini/api-films-ada#readme",
+  "dependencies": {
+    "uuid": "^9.0.1"
+  }
+}
