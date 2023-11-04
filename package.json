@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/GabrielAlberini/api-films-ada#readme",
   "dependencies": {
+    "dotenv": "^16.3.1",
     "uuid": "^9.0.1"
   }
 }
