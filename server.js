@@ -1,2 +1,1 @@
-console.log("Hola desde server");
-console.log("Hola de nuevo");
+console.log("No me importa, yo voy a crear el servidor igual.");
