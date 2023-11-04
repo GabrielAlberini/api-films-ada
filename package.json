@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "api films with node",
   "main": "client.js",
+  "type": "module",
   "scripts": {
     "server": "node server.js",
     "client": "node client.js"
